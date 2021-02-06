@@ -24,7 +24,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Signing into Github and connecting my account to Xcode was difficult as I ran into many errors. However, I manually connected it and manually committed my repository
+Signing into Github and connecting my account to Xcode was difficult as I ran into many errors. However, I manually connected it and manually committed my repository through terminal. 
 
 ## License
 
